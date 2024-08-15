@@ -34,12 +34,13 @@ O HTML (Hypertext Markup Language ou Linguagem de Marcação de Hipertexto) é u
 
 No Projeto Pokedex, foi utilizado o HTML5, que contém informações como:
 - Título da página do Pokedex
-- Códigos para exibir o número e o nome do Pokémon
-- Códigos para exibir a altura e o peso do Pokémon
+- Códigos para exibir o número e o nome do Pokémon na página
+- Códigos para exibir a altura e o peso do Pokémon na página
 - Campo de busca para encontrar Pokémon, com o texto "Encontrar Pokémon"
 - Imagem da Pokédex
 
 <img src="./images/pokedex.png" alt="Pokédex" class="pokedex">
+<img src="./images/favicon.png" type="image/x-icon">
   
 
 
