@@ -54,7 +54,13 @@ No Projeto Pokedex, foi utilizado o HTML5, que contém informações como:
 O CSS (Cascading Style Sheet) é uma linguagem utilizada para estilizar elementos escritos em uma linguagem de marcação como o HTML. O CSS separa o conteúdo da representação visual do site. O CSS possibilita a alteração da cor do texto e do fundo da página, além de modificações de fonte e espaçamento entre parágrafos. Ele também pode ser usado para criação de tabelas, variações de layouts, ajustes de imagens para suas respectivas telas e muito mais.
 
 No Projeto Pokedex, o CSS foi utilizado para:
-- Utilizar um fonte de texto diferenciada (Oxanium)
+- Definir uma fonte de texto diferenciada (Oxanium)
+- Definir o estilo global para todos os elementos da página
+- Definir o estilo para o corpo da página
+- Definir o estilo para o elemento principal da página
+- Definir o estilo para a imagem da Pokédex e Pokémon
+- Definir o estilo para todos os dados do Pokémon (número, nome, altura e peso) 
+- Definir o estilo para o campo de entrada e fomulário de pesquisa
 
 <br>
 
@@ -70,10 +76,7 @@ Falar das aulas
 
 Falar HOST
 
-Referências:
-- https://pt.wikipedia.org/wiki/Visual_Studio_Code
-- https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos
-- https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css#O_que_e_CSS
+
 
 
 https://alopes91pokedex.vercel.app/ - Desenvolvido por Anderson Lopes de Andrade
