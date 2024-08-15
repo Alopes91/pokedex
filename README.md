@@ -68,6 +68,15 @@ No Projeto Pokedex, o CSS foi utilizado para:
 
 O JS ou JavaScript é uma linguagem de programação de alto-nível que permite ao desenvolvedor implementar diversos itens de alto nível de complexidade em páginas web, como animações, mapas, gráficos, conteúdos dinâmicos e controle de mídias e assim melhorar a sua interatividade.
 
+No Projeto Pokedex, o JavaScript foi utilizado para:
+- Selecionar os elementos HTML que irão exibir os dados do Pokémon
+- Selecionar o formulário e o campo de entrada de texto
+- Definir a variável que armazenará o número do Pokémon a ser pesquisado
+- Buscar os dados do Pokémon na API (https://pokeapi.co/api/v2/pokemon/${pokemon}) e exibir os resultados na página
+- Exibir todas as informações do Pokémon
+
+
+
 
 
 Falar do API utilizado.
