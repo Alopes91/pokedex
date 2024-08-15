@@ -39,7 +39,7 @@ Neste projeto foram utilizadas três linguagens:
 O HTML (Hypertext Markup Language ou Linguagem de Marcação de Hipertexto) é uma linguagem de marcação de computador que define a estrutura e o significado do conteúdo da web. É o código usado para estruturar uma página web e o seu conteúdo, permitindo que informações sejam organizadas e formatadas para dar estrutura e forma à página.
 
 No Projeto Pokedex, foi utilizado o HTML5, que contém informações como:
-- Título da página do Pokedex
+- Título da página do Pokédex
 - Códigos para exibir o número e o nome do Pokémon na página
 - Códigos para exibir a altura e o peso do Pokémon na página
 - Campo de busca para encontrar Pokémon, com o texto "Encontrar Pokémon"
@@ -52,6 +52,9 @@ No Projeto Pokedex, foi utilizado o HTML5, que contém informações como:
 <b> 2.2 CSS </b>
 
 O CSS (Cascading Style Sheet) é uma linguagem utilizada para estilizar elementos escritos em uma linguagem de marcação como o HTML. O CSS separa o conteúdo da representação visual do site. O CSS possibilita a alteração da cor do texto e do fundo da página, além de modificações de fonte e espaçamento entre parágrafos. Ele também pode ser usado para criação de tabelas, variações de layouts, ajustes de imagens para suas respectivas telas e muito mais.
+
+No Projeto Pokedex, o CSS foi utilizado para:
+- Utilizar um fonte de texto diferenciada (Oxanium)
 
 <br>
 
