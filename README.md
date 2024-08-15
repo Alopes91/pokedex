@@ -36,6 +36,7 @@ O HTML (Hypertext Markup Language ou Linguagem de Marcação de Hipertexto) é u
 
 O CSS (Cascading Style Sheet) é uma linguagem utilizada para estilizar elementos escritos em uma linguagem de marcação como o HTML. O CSS separa o conteúdo da representação visual do site. O CSS possibilita a alteração da cor do texto e do fundo da página, além de modificações de fonte e espaçamento entre parágrafos. Ele também pode ser usado para criação de tabelas, variações de layouts, ajustes de imagens para suas respectivas telas e muito mais.
 
+2.3 JavaScript
 As aulas do 
 
 
