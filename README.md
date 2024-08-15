@@ -36,6 +36,11 @@ No Projeto Pokedex, foi utilizado o HTML5, que contém informações como:
 - Título da página do Pokedex
 - Códigos para exibir o número e o nome do Pokémon
 - Códigos para exibir a altura e o peso do Pokémon
+- Campo de busca para encontrar Pokémon, com o texto "Encontrar Pokémon"
+- Imagem da Pokédex
+
+<img src="./images/pokedex.png" alt="Pokédex" class="pokedex">
+  
 
 
 
