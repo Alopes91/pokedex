@@ -73,17 +73,16 @@ No Projeto Pokedex, o JavaScript foi utilizado para:
 - Selecionar o formulário e o campo de entrada de texto
 - Definir a variável que armazenará o número do Pokémon a ser pesquisado
 - Buscar os dados do Pokémon na API (https://pokeapi.co/api/v2/pokemon/${pokemon}) e exibir os resultados na página
-- Exibir todas as informações do Pokémon
+- Exibir todas as informações do Pokémon (nome, número, peso e altura) na página
+- Fazer verificações e exibir mensagem de erro caso o Pokémon não seja encontrado.
+
+<br>
+
+<b> 3 Host </b>
 
 
 
 
-
-Falar do API utilizado.
-
-Falar das aulas
-
-Falar HOST
 
 
 
