@@ -1,5 +1,5 @@
 # pokedex
-Projeto Pokedex
+Projeto Pokedex <img src="./images/favicon.png" type="image/x-icon">
 
 1 Introdução
 
@@ -40,7 +40,7 @@ No Projeto Pokedex, foi utilizado o HTML5, que contém informações como:
 - Imagem da Pokédex
 
 <img src="./images/pokedex.png" alt="Pokédex" class="pokedex">
-<img src="./images/favicon.png" type="image/x-icon">
+
   
 
 
