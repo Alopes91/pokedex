@@ -47,10 +47,10 @@ Falar das aulas
 
 Falar HOST
 
-Referências: 
-https://pt.wikipedia.org/wiki/Visual_Studio_Code
-https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos
-https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css#O_que_e_CSS
+Referências:
+- https://pt.wikipedia.org/wiki/Visual_Studio_Code
+- https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos
+- https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css#O_que_e_CSS
 
 
 https://alopes91pokedex.vercel.app/ - Desenvolvido por Anderson Lopes de Andrade
