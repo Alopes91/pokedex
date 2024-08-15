@@ -58,7 +58,7 @@ No Projeto Pokedex, o CSS foi utilizado para:
 - Definir o estilo global para todos os elementos da página
 - Definir o estilo para o corpo da página
 - Definir o estilo para o elemento principal da página
-- Definir o estilo para a imagem da Pokédex e Pokémon
+- Definir o estilo para a imagem da Pokédex e do Pokémon
 - Definir o estilo para todos os dados do Pokémon (número, nome, altura e peso) 
 - Definir o estilo para o campo de entrada e fomulário de pesquisa
 
