@@ -45,7 +45,7 @@ No Projeto Pokedex, foi utilizado o HTML5, que contém informações como:
 - Campo de busca para encontrar Pokémon, com o texto "Encontrar Pokémon"
 - Imagem da Pokédex
 
-<img src="./images/pokedex.png" alt="Pokédex" width="15%">
+<img src="./images/pokedex.png" alt="Pokédex" width="50%">
 
 <br>
 
