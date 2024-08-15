@@ -33,8 +33,9 @@ Neste projeto foram utilizadas três linguagens:
 O HTML (Hypertext Markup Language ou Linguagem de Marcação de Hipertexto) é uma linguagem de marcação de computador que define a estrutura e o significado do conteúdo da web. É o código usado para estruturar uma página web e o seu conteúdo, permitindo que informações sejam organizadas e formatadas para dar estrutura e forma à página.
 
 No Projeto Pokedex, foi utilizado o HTML5, que contém informações como:
-- Título da página
-- 
+- Título da página do Pokedex
+- Códigos para exibir o número e o nome do Pokémon
+- Códigos para exibir a altura e o peso do Pokémon
 
 
 
