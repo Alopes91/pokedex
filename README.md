@@ -1,7 +1,7 @@
 # pokedex
 Projeto Pokedex <img src="./images/favicon.png" type="image/x-icon">
 
-1 Introdução
+<b> 1 Introdução </b>
 
 O Projeto Pokedex foi orientado pelo professor Jacques Simões da Silva Junior na disciplina de Programação Web I e II do curso Técnico de Desenvolvimento de Sistemas.
 
@@ -20,7 +20,7 @@ Este projeto foi desenvolvido dentro do software Visual Studio Code (VS Code), q
 
 Além disso, foi necessário baixar o node.js no site https://nodejs.org/pt
 
-2 Linguagens utilizadas no Projeto Pokedex
+<b> 2 Linguagens utilizadas no Projeto Pokedex </b>
 
 Neste projeto foram utilizadas três linguagens:
 
@@ -28,7 +28,7 @@ Neste projeto foram utilizadas três linguagens:
 - CSS
 - JavaScript
 
-2.1 HTML
+<b> 2.1 HTML </b>
 
 O HTML (Hypertext Markup Language ou Linguagem de Marcação de Hipertexto) é uma linguagem de marcação de computador que define a estrutura e o significado do conteúdo da web. É o código usado para estruturar uma página web e o seu conteúdo, permitindo que informações sejam organizadas e formatadas para dar estrutura e forma à página.
 
@@ -46,11 +46,11 @@ No Projeto Pokedex, foi utilizado o HTML5, que contém informações como:
 
 
 
-2.2 CSS
+<b> 2.2 CSS </b>
 
 O CSS (Cascading Style Sheet) é uma linguagem utilizada para estilizar elementos escritos em uma linguagem de marcação como o HTML. O CSS separa o conteúdo da representação visual do site. O CSS possibilita a alteração da cor do texto e do fundo da página, além de modificações de fonte e espaçamento entre parágrafos. Ele também pode ser usado para criação de tabelas, variações de layouts, ajustes de imagens para suas respectivas telas e muito mais.
 
-2.3 JavaScript
+<b> 2.3 JavaScript </b>
 O JS ou JavaScript é uma linguagem de programação de alto-nível que permite ao desenvolvedor implementar diversos itens de alto nível de complexidade em páginas web, como animações, mapas, gráficos, conteúdos dinâmicos e controle de mídias e assim melhorar a sua interatividade.
 
 
