@@ -1,11 +1,11 @@
 # pokedex
-<h1>Projeto Pokedex <img src="./images/favicon.png" type="image/x-icon"></h1>
+<h1>Projeto Pokédex <img src="./images/favicon.png" type="image/x-icon"></h1>
 
 <br>
 
 <h1><b> 1 Introdução </b></h1>
 
-O Projeto Pokedex foi orientado pelo professor Jacques Simões da Silva Junior na disciplina de Programação Web I e II do curso Técnico de Desenvolvimento de Sistemas.
+O Projeto Pokédex foi orientado pelo professor Jacques Simões da Silva Junior na disciplina de Programação Web I e II do curso Técnico de Desenvolvimento de Sistemas.
 
 Este projeto foi desenvolvido dentro do software Visual Studio Code (VS Code), que é um editor de código-fonte desenvolvido pela Microsoft. Para melhorar a experiência do usuário durante o desenvolvimento das linguagens aplicadas foram instaladas algumas extensões do VS Code, como:
 
@@ -24,7 +24,7 @@ Além disso, foi necessário baixar o node.js no site https://nodejs.org/pt
 
 <br>
 
-<h1><b> 2 Linguagens utilizadas no Projeto Pokedex </b></h1>
+<h1><b> 2 Linguagens utilizadas no Projeto Pokédex </b></h1>
 
 Neste projeto foram utilizadas três linguagens:
 
@@ -38,7 +38,7 @@ Neste projeto foram utilizadas três linguagens:
 
 O HTML (Hypertext Markup Language ou Linguagem de Marcação de Hipertexto) é uma linguagem de marcação de computador que define a estrutura e o significado do conteúdo da web. É o código usado para estruturar uma página web e o seu conteúdo, permitindo que informações sejam organizadas e formatadas para dar estrutura e forma à página.
 
-No Projeto Pokedex, foi utilizado o HTML5, que contém informações como:
+No Projeto Pokédex, foi utilizado o HTML5, que contém informações como:
 - Título da página do Pokédex
 - Códigos para exibir o número e o nome do Pokémon na página
 - Códigos para exibir a altura e o peso do Pokémon na página
@@ -53,7 +53,7 @@ No Projeto Pokedex, foi utilizado o HTML5, que contém informações como:
 
 O CSS (Cascading Style Sheet) é uma linguagem utilizada para estilizar elementos escritos em uma linguagem de marcação como o HTML. O CSS separa o conteúdo da representação visual do site. O CSS possibilita a alteração da cor do texto e do fundo da página, além de modificações de fonte e espaçamento entre parágrafos. Ele também pode ser usado para criação de tabelas, variações de layouts, ajustes de imagens para suas respectivas telas e muito mais.
 
-No Projeto Pokedex, o CSS foi utilizado para:
+No Projeto Pokédex, o CSS foi utilizado para:
 - Definir uma fonte de texto diferenciada (Oxanium)
 - Definir o estilo global para todos os elementos da página
 - Definir o estilo para o corpo da página
@@ -68,7 +68,7 @@ No Projeto Pokedex, o CSS foi utilizado para:
 
 O JS ou JavaScript é uma linguagem de programação de alto-nível que permite ao desenvolvedor implementar diversos itens de alto nível de complexidade em páginas web, como animações, mapas, gráficos, conteúdos dinâmicos e controle de mídias e assim melhorar a sua interatividade.
 
-No Projeto Pokedex, o JavaScript foi utilizado para:
+No Projeto Pokédex, o JavaScript foi utilizado para:
 - Selecionar os elementos HTML que irão exibir os dados do Pokémon
 - Selecionar o formulário e o campo de entrada de texto
 - Definir a variável que armazenará o número do Pokémon a ser pesquisado
@@ -82,10 +82,10 @@ No Projeto Pokedex, o JavaScript foi utilizado para:
 
 O GitHub é uma plataforma de desenvolvimento colaborativo que permite armazenar e partilhar projetos de desenvolvimento de software. Já Vercel é uma plataforma voltada para a hospedagem de aplicações, como sites estáticos e frameworks front-end.
 
-Após o Projeto Pokedex ser desenvolvido no VS Code, a sua codificação foi armazenada de forma pública no GitHub, onde foi necessária a criação de uma conta pessoal.
+Após o Projeto Pokédex ser desenvolvido no VS Code, a sua codificação foi armazenada de forma pública no GitHub, onde foi necessária a criação de uma conta pessoal.
 
-Por fim, também foi necessária a criação de conta pessoal na Vercel para a hospedagem do Projeto Pokedéx e sincronização com o próprio GitHub.
+Por fim, também foi necessária a criação de conta pessoal na Vercel para a hospedagem do Projeto Pokédex e sincronização com o próprio GitHub.
 
 <br>
 
-https://alopes91pokedex.vercel.app/ - Desenvolvido por Anderson Lopes de Andrade
+Veja o Projeto Pokédex em: https://alopes91pokedex.vercel.app/ - Desenvolvido por Anderson Lopes de Andrade
