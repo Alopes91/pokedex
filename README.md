@@ -80,7 +80,11 @@ No Projeto Pokedex, o JavaScript foi utilizado para:
 
 <b> 3 Github e Vercel </b>
 
-Após o Projeto Pokedex ser desenvolvido no VS Code, ele foi publicado no GitHub e hospedado no Vercel.
+Após o Projeto Pokedex ser desenvolvido no VS Code, a sua codificação foi armazenada de forma pública no GitHub, onde foi necessária a criação de uma conta pessoal.
+
+
+
+hospedado no Vercel.
 
 <br>
 
