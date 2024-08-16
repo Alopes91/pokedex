@@ -3,7 +3,7 @@ Projeto Pokedex <img src="./images/favicon.png" type="image/x-icon">
 
 <br>
 
-<b> 1 Introdução </b>
+<h1><b> 1 Introdução </b></h1>
 
 O Projeto Pokedex foi orientado pelo professor Jacques Simões da Silva Junior na disciplina de Programação Web I e II do curso Técnico de Desenvolvimento de Sistemas.
 
@@ -24,7 +24,7 @@ Além disso, foi necessário baixar o node.js no site https://nodejs.org/pt
 
 <br>
 
-<b> 2 Linguagens utilizadas no Projeto Pokedex </b>
+<h1><b> 2 Linguagens utilizadas no Projeto Pokedex </b></h1>
 
 Neste projeto foram utilizadas três linguagens:
 
@@ -78,7 +78,7 @@ No Projeto Pokedex, o JavaScript foi utilizado para:
 
 <br>
 
-<b> 3 Github e Vercel </b>
+<h1><b> 3 Github e Vercel </b></h1>
 
 Após o Projeto Pokedex ser desenvolvido no VS Code, a sua codificação foi armazenada de forma pública no GitHub, onde foi necessária a criação de uma conta pessoal.
 
