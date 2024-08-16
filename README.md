@@ -80,9 +80,13 @@ No Projeto Pokedex, o JavaScript foi utilizado para:
 
 <h1><b> 3 Github e Vercel </b></h1>
 
+O GitHub
+
+A Vercel é uma plataforma voltada para a hospedagem de aplicações, como sites estáticos e frameworks front-end.
+
 Após o Projeto Pokedex ser desenvolvido no VS Code, a sua codificação foi armazenada de forma pública no GitHub, onde foi necessária a criação de uma conta pessoal.
 
-Por fim, também foi necessária a criação de conta pessoal no Vercel para a hospedagem do Projeto Pokedéx e sincronização com o próprio GitHub.
+Por fim, também foi necessária a criação de conta pessoal na Vercel para a hospedagem do Projeto Pokedéx e sincronização com o próprio GitHub.
 
 <br>
 
