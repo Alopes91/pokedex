@@ -1,5 +1,5 @@
 # pokedex
-<h1>Projeto Pokedex</h1> <img src="./images/favicon.png" type="image/x-icon">
+<h1>Projeto Pokedex <img src="./images/favicon.png" type="image/x-icon"></h1>
 
 <br>
 
